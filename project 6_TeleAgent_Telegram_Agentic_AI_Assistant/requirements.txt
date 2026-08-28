@@ -1,0 +1,5 @@
+streamlit>=1.40
+requests>=2.32
+python-dotenv>=1.0
+langgraph>=0.2
+python-telegram-bot>=21.0
