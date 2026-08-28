@@ -1,0 +1,10 @@
+Database Systems Notes
+
+Normalization organizes relational data to reduce redundancy and update anomalies.
+First Normal Form requires atomic values. Second Normal Form removes partial dependency
+on a composite key. Third Normal Form removes transitive dependency.
+
+A transaction should follow ACID properties: Atomicity, Consistency, Isolation and Durability.
+
+Indexes can speed up reads but add storage and write-maintenance overhead. Primary keys
+uniquely identify rows. Foreign keys enforce relationships between tables.

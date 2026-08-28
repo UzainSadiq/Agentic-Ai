@@ -1,0 +1,13 @@
+Operating Systems Notes
+
+A process is a program in execution. Process scheduling decides which ready process gets
+CPU time. Common scheduling algorithms include FCFS, SJF, Priority and Round Robin.
+
+Virtual memory allows a process to use an address space larger than available physical RAM.
+Paging divides virtual memory into fixed-size pages and physical memory into frames.
+
+Page replacement algorithms decide which page to remove when a page fault occurs.
+FIFO removes the oldest page, while LRU removes the page that has not been used for the
+longest time.
+
+Context switching saves the state of one process and loads the state of another.

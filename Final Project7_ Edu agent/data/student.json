@@ -1,0 +1,91 @@
+{
+  "name": "Uzain Sadiq",
+  "program": "BS Information Technology",
+  "semester": 6,
+  "weekly_goal_hours": 14,
+  "preferred_study_time": "Evening",
+  "subjects": [
+    {
+      "name": "Agentic AI",
+      "code": "AI-401",
+      "credits": 3,
+      "mastery": 62,
+      "exam_date": "2026-09-03",
+      "priority_weight": 5,
+      "topics": [
+        "LangChain",
+        "LangGraph",
+        "Tool Calling",
+        "RAG"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "code": "CS-301",
+      "credits": 3,
+      "mastery": 55,
+      "exam_date": "2026-09-07",
+      "priority_weight": 5,
+      "topics": [
+        "Processes",
+        "Scheduling",
+        "Memory Management",
+        "Virtual Memory"
+      ]
+    },
+    {
+      "name": "Database Systems",
+      "code": "DB-302",
+      "credits": 3,
+      "mastery": 72,
+      "exam_date": "2026-09-10",
+      "priority_weight": 4,
+      "topics": [
+        "SQL",
+        "Normalization",
+        "Transactions",
+        "Indexes"
+      ]
+    },
+    {
+      "name": "Software Testing",
+      "code": "SE-305",
+      "credits": 3,
+      "mastery": 68,
+      "exam_date": "2026-09-12",
+      "priority_weight": 3,
+      "topics": [
+        "Testing levels",
+        "Test cases",
+        "Automation",
+        "Defects"
+      ]
+    },
+    {
+      "name": "Technical Writing",
+      "code": "TW-210",
+      "credits": 2,
+      "mastery": 80,
+      "exam_date": "2026-09-15",
+      "priority_weight": 2,
+      "topics": [
+        "Reports",
+        "Documentation",
+        "Presentations"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "code": "DM-220",
+      "credits": 2,
+      "mastery": 76,
+      "exam_date": "2026-09-18",
+      "priority_weight": 2,
+      "topics": [
+        "SEO",
+        "Analytics",
+        "Content strategy"
+      ]
+    }
+  ]
+}

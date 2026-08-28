@@ -1,0 +1,35 @@
+{
+  "description": "Editable sample academic dataset for EduAgent.",
+  "subjects": [
+    {
+      "name": "Agentic AI",
+      "mastery": 62,
+      "weekly_target_hours": 4
+    },
+    {
+      "name": "Operating Systems",
+      "mastery": 55,
+      "weekly_target_hours": 4
+    },
+    {
+      "name": "Database Systems",
+      "mastery": 72,
+      "weekly_target_hours": 2
+    },
+    {
+      "name": "Software Testing",
+      "mastery": 68,
+      "weekly_target_hours": 2
+    },
+    {
+      "name": "Technical Writing",
+      "mastery": 80,
+      "weekly_target_hours": 1
+    },
+    {
+      "name": "Digital Marketing",
+      "mastery": 76,
+      "weekly_target_hours": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Agentic AI Notes
+
+ReAct combines reasoning and action. An agent can reason about a task, choose a tool,
+observe the tool result, and continue until it can provide a final answer.
+
+Tool calling allows an LLM to request a structured function call. The application executes
+the function and sends the result back to the model.
+
+RAG means Retrieval-Augmented Generation. Instead of asking the LLM to rely only on its
+training data, the application retrieves relevant chunks from a knowledge base and gives
+those chunks to the model as context.
+
+LangChain provides abstractions for models, prompts, tools and agents. LangGraph can be
+used when the workflow needs explicit state, branching, persistence or multiple agent nodes.
+
+A good student agent should use private course notes for course-specific questions and
+web search for current external resources.
