@@ -1,0 +1,2 @@
+[2026-08-28 20:31:31] send_email: {"recipient": "uzainsadiq971@gmail.com", "subject": "Project Submission Deadline Reminder", "message": "Hello,\n\nThis is a reminder that your project submission deadline is due tomorrow. Please ensure your work is submitted on time.\n\nBest regards,\nCommunication Assistant", "mode": "demo"}
+[2026-08-28 20:31:32] agent_decision: {"action": "send_email", "reason": "The user explicitly requested to send an email to uzainsadiq971@gmail.com regarding the project submission deadline due tomorrow."}

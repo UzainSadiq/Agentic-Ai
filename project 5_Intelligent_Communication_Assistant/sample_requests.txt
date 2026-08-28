@@ -1,0 +1,9 @@
+Sample requests for teacher demonstration
+
+1. Send an email to student@example.com reminding them that the project is due tomorrow.
+
+2. Send me a high-priority notification that the project deadline is tomorrow.
+
+3. Send an email to student@example.com and a notification because the deadline is tomorrow.
+
+4. Log that the assistant decided to use a notification because the request is urgent.
