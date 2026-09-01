@@ -64,3 +64,6 @@ Unlike a basic educational chatbot, EduAgent combines AI reasoning, student info
 Understand → Reason → Decide → Act → Retrieve → Collaborate → Validate → Respond
 The projects cover the major building blocks of modern Agentic AI, including LLM integration, AI agents, tool calling, RAG, Lang Graph, stateful workflows, multi-agent collaboration, APIs, and user-facing applications.
 Together, these implementations represent a progression from basic agent concepts to practical, intelligent, and interactive Agentic AI applications.
+
+**video file link**
+https://drive.google.com/file/d/12uyMHvaMavmS3URMBcaz3qu8Rw6Y4Nxx/view?usp=drive_link
